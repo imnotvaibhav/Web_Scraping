@@ -13,7 +13,11 @@ scrape_and_save file scrapes links of first 100 links from google and saves the 
   * type cmd and hit enter
 * Run the file using, python code scrape_and_save.py
 
-####Extras:
+
+
+
+
+###Extras:
   #### Do you want to create an sql file from above file using python?
   * Download the sql_connection.ipynb file
   * Download MySQl workbench.
