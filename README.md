@@ -1,6 +1,12 @@
 # Web_Scraping
 scrape_and_save file scrapes links of first 100 links from google and saves the links in a .csv file.
 
+### Repository contains
+1. scrape_and_save.py file
+2. links.csv
+3. sql_connection.ipynb (extras)
+4. This Readme file (hehe)
+
 ### How to use scrape_and_save.py file
 * download scrape_and_save.py file.
 * open file in vscode or your favourite code-editor.
