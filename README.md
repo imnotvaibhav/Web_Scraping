@@ -8,5 +8,7 @@ scrape_and_save file scrapes links of first 100 links from google and saves the 
   pip install selenium -U
   pip install pandas
 * Change the filepath to the path where you want to save the .csv file.
-* Open terminal
+* Open terminal:
+  Press "windows+R"
+  type cmd and hit enter
 * Run the file using, python code scrape_and_save.py
